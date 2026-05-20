@@ -1,0 +1,31 @@
+{
+    "samnoel": [
+        {
+            "id": "E35EDE50",
+            "subject": "Science",
+            "date_given": "20-05-2026",
+            "description": "Complete Science paper",
+            "due_date": "23-05-2026",
+            "status": "Pending",
+            "created_at": "16-05-2026 22:38"
+        },
+        {
+            "id": "457B28B1",
+            "subject": "Maths",
+            "date_given": "20-05-2026",
+            "description": "complete maths homework",
+            "due_date": "23-05-2026",
+            "status": "In Progress",
+            "created_at": "16-05-2026 22:41"
+        },
+        {
+            "id": "20538CF6",
+            "subject": "English",
+            "date_given": "20-05-2026",
+            "description": "English o level paper",
+            "due_date": "24-05-2026",
+            "status": "In Progress",
+            "created_at": "16-05-2026 22:42"
+        }
+    ]
+}
