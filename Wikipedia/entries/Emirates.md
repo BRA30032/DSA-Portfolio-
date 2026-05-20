@@ -1,0 +1,3 @@
+# Emirates
+
+Emirates is one of the two flag carriers of the United Arab Emirates (the other being Etihad Airways). Based in Garhoud, Dubai, the airline is a subsidiary of The Emirates Group, which is owned by the government of Dubai's Investment Corporation of Dubai. It is the largest airline in the Middle East, operating more than 3,600 flights per week from its hub at Terminal 3 of Dubai International Airport. It operates in more than 150 cities in 80 countries across six continents on its fleet of over 250 aircraft. Cargo operations are undertaken by Emirates SkyCargo.

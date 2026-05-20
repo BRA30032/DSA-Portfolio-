@@ -1,0 +1,3 @@
+# Singapore Airlines
+
+Singapore Airlines (abbreviation: SIA or SQ) is the flag carrier of Singapore with its hub located at Changi Airport. The airline is ranked as a 5-star airline and has been ranked as the world's best airline by Skytrax five times. Singapore Airlines operates a variety of Airbus and Boeing aircraft, namely the Airbus A350-900, Airbus A380, Boeing 737 MAX 8, Boeing 747-400 Freighter, Boeing 777-300ER and Boeing 787-10. The airline has been a member of Star Alliance since April 2000.
